@@ -1,4 +1,12 @@
-### Hi there 👋
+# About Me
+
+🔭 By day I am a physicist working on Kinetic Inductance Detectors and Cryogenics at Cardiff University, I lead the cryogenics work on the [MUSCAT](https://muscat.astro.cf.ac.uk) instrument on the [LMT](http://lmtgtm.org/).
+
+🏚 Outside work you will find me playing around on Open Source projects including [Home Assistant](https://www.home-assistant.io)
+
+📫 @tombrien or @tbrien88 most places
+
+😄 Pronouns: He/Him
 
 <!--
 **TomBrien/TomBrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
